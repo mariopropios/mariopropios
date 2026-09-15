@@ -1,12 +1,12 @@
-# Mario Propios Plaza
+# Mario Propios
 
 Estudiante de **DAW** en el IES Leonardo da Vinci (Madrid). Finalizo en 2027 y busco mi primer empleo como desarrollador.
 
 ## Formación
 
-`Java` `SQL` `HTML` `CSS` `JavaScript` `Git` `Python`
+`Java` `JavaScript` `PHP` `Python` `SQL` `MySQL` `HTML` `CSS` `XML` `JSON` `Git`
 
-También: lenguajes de marcas (XML, JSON), entornos de desarrollo y despliegue de instancias en servidor/nube.
+También: diseño de interfaces web, despliegue de aplicaciones (instancias, servidor, DNS, HTTPS) y entornos de desarrollo.
 
 ## Contacto
 
