@@ -1,16 +1,15 @@
-## Mario Propios Plaza 👋
+# Mario Propios Plaza
 
-<!--
-**mariopropios/mariopropios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **DAW** en el IES Leonardo da Vinci (Madrid). Finalizo en 2027 y busco mi primer empleo como desarrollador.
 
-Here are some ideas to get you started:
+## Formación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Java` `SQL` `HTML` `CSS` `JavaScript` `Git` `Python`
+
+También: lenguajes de marcas (XML, JSON), entornos de desarrollo y despliegue de instancias en servidor/nube.
+
+## Contacto
+
+[mariopropiosplaza@gmail.com](mailto:mariopropiosplaza@gmail.com)
+
+Proyecto personal en producción: [miprofio.es](https://miprofio.es)
