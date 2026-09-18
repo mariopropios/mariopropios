@@ -1,6 +1,6 @@
 # Mario Propios
 
-Estudiante de **DAW** en el IES Leonardo da Vinci (Madrid). Finalizo en 2027 y busco mi primer empleo como desarrollador.
+Estudiante de **DAW** en el IES Leonardo da Vinci (Madrid). Finalizo en 2027.
 
 ## Formación
 
